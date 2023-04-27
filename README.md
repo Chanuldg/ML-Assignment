@@ -6,4 +6,4 @@ Python project for Olympic medal winners
 01. 
 02. Balage D. S.  -  IT20041120
 03. Kanishkar R.  -  IT20226732
-04. 
+04. Suriyaarachchi.S.M - IT20187514
